@@ -2,7 +2,7 @@
 
 A smartwatch app built with **Ionic** and designed to track and display health and fitness data in real time. The app offers users insights into their **steps**, **calories burned**, and key health metrics such as **heart rate**, **blood pressure**, and **oxygen saturation**. By displaying the current values as well as the highest and lowest readings of the day, users can easily monitor their health status. Additionally, the app integrates **location** tracking, allowing users to view their current location on a map. 
 
-[Repository link]([https://github.com/noeliarozado/Smartwatch.git)
+[Repository link](https://github.com/noeliarozado/Smartwatch.git)
 
 ## FEATURES AND FUNCTIONALITY
 
