@@ -30,11 +30,19 @@ A smartwatch app built with **Ionic** and designed to track and display health a
 
 ## Location
 
-
+![Location](/images/Mapa.png)
 
 ## Health metrics
 
 ![Health metrics](/images/Vitales.png)
+
+## Heart rate chart
+
+![Heart rate chart](/images/heartratechart.png)
+
+## Blood pressure chart
+
+![Blood pressure chart](/images/bloospressurechart.png)
 
 ## Settings
 
