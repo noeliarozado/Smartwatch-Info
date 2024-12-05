@@ -42,7 +42,7 @@ A smartwatch app built with **Ionic** and designed to track and display health a
 
 ## Blood pressure chart
 
-
+![Blood pressure chart](/images/bloospressurechart.png)
 
 ## Settings
 
